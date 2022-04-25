@@ -4,4 +4,13 @@ git commands ;
  git init = git repositary
  git add . = used to add a folder files where we do in "vi"
  vi = used to type in files database
+--------------------------------------
+
+git remote origin master (link copy from git console)= it is used to link the local with remote 
+
+git remote -v = used to check whether fetch,push
  
+git push origin (master) = used to push the local files to remote
+
+git pull origin (master)= use to pull from remote files to local 
+
