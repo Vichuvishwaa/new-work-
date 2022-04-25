@@ -1,0 +1,16 @@
+git tagging and reset:
+
+  git tag v1 = tagging the versioning as v1
+
+  git reset -d v1 = deleting 
+
+  git push --tags (master)
+
+  git reset = for unstaging (only commit id delete and the content will be there , we can overwrite and              commit that and push 
+
+  git reset --hard (copy the change id)
+
+  git revert HEAD = latest commit will delete and file also delete
+
+  git rm (filename) = used to remove file in a folder 
+
